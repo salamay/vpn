@@ -15,7 +15,6 @@
     {"id":5, "app":"com.facebook.client"},
     {"id":6, "app":"com.get.client"}
   ],
-  "fre
   "free":[
     {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"34.94.202.74","active":"true","signal":"a"},
   ]
