@@ -1,5 +1,5 @@
 {
- "ads":"true",
+  "ads":"true",
   "update":[{
     "version":"2.8.2000",
     "title":"Do you like this VPN app? Check the source code!",
@@ -23,5 +23,6 @@
     {"id":4, "file":1, "city":"London","country":"United States","image":"unitedkingdom","ip":"205.185.119.100","active":"true","signal":"c"},
     {"id":5, "file":1, "city":"Singapore","country":"United States","image":"singapore","ip":"205.185.119.100","active":"true","signal":"c"},
     {"id":6, "file":1, "city":"Sydney","country":"United States","image":"australia","ip":"205.185.119.100","active":"true","signal":"c"}
+    
   ]
 }
